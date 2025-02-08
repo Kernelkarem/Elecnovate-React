@@ -1,0 +1,10 @@
+Lion
+Tiger
+Elephant
+Panda
+Kangaroo
+Sloth
+Cheetah
+Dolphin
+Otter
+Wolf
